@@ -1,0 +1,1 @@
+document.querySelector('.feature-column-carousel__item .feature-column-carousel__content a').innerText = "Checkout"
